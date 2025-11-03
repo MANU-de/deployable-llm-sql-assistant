@@ -34,13 +34,21 @@ The model is trained for two epochs using the QLoRA method, resulting in an enha
 The project is organized into logical directories for code, documentation, and configuration.
 
 .
+
 ├── notebooks/ # Contains the primary Colab notebook for the project.
+
 │ └── Technical_Assistant_LLM.ipynb
+
 ├── docs/ # Contains detailed supplementary documentation.
+
 │ └── EVALUATION_AND_QUANTIZATION.md
+
 ├── .gitignore # Specifies files for Git to ignore.
+
 ├── LICENSE # The open-source license for this project.
+
 ├── README.md # This overview and guide.
+
 └── requirements.txt # A list of pinned Python dependencies.
 
 ---
