@@ -33,7 +33,7 @@ The model is trained for two epochs using the QLoRA method, resulting in an enha
 
 The project is organized into logical directories for code, documentation, and configuration.
 
-.
+```
 
 ├── notebooks/ # Contains the primary Colab notebook for the project.
 
@@ -50,6 +50,7 @@ The project is organized into logical directories for code, documentation, and c
 ├── README.md # This overview and guide.
 
 └── requirements.txt # A list of pinned Python dependencies.
+```
 
 ---
 
